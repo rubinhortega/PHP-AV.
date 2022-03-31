@@ -1,0 +1,17 @@
+
+Nome:RUBENS DIRCEU ORTEGA JUNIOR
+CPF:255.555.555-55
+RG:25.555.555-5
+Idade:45
+Nome:Erika Ruzzon
+CPF:266.666.666-66
+RG:26.666.666-6
+Idade:42
+Nome:Lucas Ortega
+CPF:244.444.444-44
+RG:24.444.444-4
+Idade:23
+Nome:Giovani ruzzon de jesus ortega
+CPF:233.333.333-33
+RG:23.333.333-3
+Idade:17
